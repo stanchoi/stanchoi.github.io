@@ -1,7 +1,7 @@
 .version.typography /* version checker */
 {
-	color: #000013;
-	background-color: #F5F00D;
+	color: #000003;
+	background-color: #1B3596;
 }
 
 #page
@@ -918,7 +918,7 @@ body
 	{
 		font-size: 30px;
 		line-height: 36px;
-		margin-top: 26px;
+		margin-top: 10px;
 		width: 91.17%;
 		margin-left: 4.5%;
 	}
@@ -1032,7 +1032,7 @@ body
 		color: #333D47;
 		font-size: 30px;
 		line-height: 36px;
-		margin-top: 26px;
+		margin-top: 10px;
 		width: 89.59%;
 		margin-left: 3.34%;
 	}

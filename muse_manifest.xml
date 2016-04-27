@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="stanchoi.github.io" resolutions="1x" timestamp="1461779411232">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="stanchoi.github.io" resolutions="1x" timestamp="1461782081695">
   <folder name="css">
     <file name="site_global.css" crc="4129678886"/>
-    <file name="master_a-master.css" crc="404725349" ref="button-group:index:block-quote:thought-leadership:typography:circle-promo:product-page:tabs:responsive-grid"/>
+    <file name="master_a-master.css" crc="316272924" ref="button-group:index:block-quote:thought-leadership:typography:circle-promo:product-page:tabs:responsive-grid"/>
     <file name="nomq_preview_master_a-master.css" crc="321525473" ref="button-group:index:block-quote:thought-leadership:typography:circle-promo:product-page:tabs:responsive-grid"/>
     <file name="button-group.css" crc="510179894" ref="button-group"/>
     <file name="nomq_button-group.css" crc="4255972945" ref="button-group"/>
@@ -11,7 +11,7 @@
     <file name="nomq_block-quote.css" crc="243166159" ref="block-quote"/>
     <file name="thought-leadership.css" crc="4287411878" ref="thought-leadership"/>
     <file name="nomq_thought-leadership.css" crc="358489729" ref="thought-leadership"/>
-    <file name="typography.css" crc="334884877" ref="typography"/>
+    <file name="typography.css" crc="52114838" ref="typography"/>
     <file name="nomq_typography.css" crc="3779447108" ref="typography"/>
     <file name="circle-promo.css" crc="3901346406" ref="circle-promo"/>
     <file name="nomq_circle-promo.css" crc="199623740" ref="circle-promo"/>
@@ -125,7 +125,7 @@
   <file name="block-quote.html" crc="4022048005" seo="true" mt="1461777839195" redirect="true"/>
   <file name="responsive-grid.html" crc="268515071" seo="true" mt="1461777820575" redirect="true"/>
   <file name="tabs.html" crc="4204313801" seo="true" mt="1461777820575" redirect="true"/>
-  <file name="typography.html" crc="3817699117" seo="true" mt="1461777820575" redirect="true"/>
+  <file name="typography.html" crc="3863272467" seo="true" mt="1461782030565" redirect="true"/>
   <file name="thought-leadership.html" crc="4141602978" seo="true" mt="1461778632337" redirect="true"/>
   <file name="index.html" crc="535585454" seo="true" mt="1461777942264" redirect="true"/>
   <file name="button-group.html" crc="4205073385" seo="true" mt="1461777863441" redirect="true"/>
