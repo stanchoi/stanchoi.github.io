@@ -1,0 +1,66 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 1260px;
+		min-height: 351px;
+		padding-bottom: 449px;
+	}
+
+	#pu118289
+	{
+		width: 0.01px;
+		padding-bottom: 72px;
+		margin-right: -10000px;
+		margin-left: -53px;
+	}
+
+	#u118290-6
+	{
+		width: 592px;
+		left: 77px;
+	}
+
+	#u118290-6:hover
+	{
+		width: 592px;
+	}
+
+	#u118290-6:active
+	{
+		width: 592px;
+	}
+
+	#u121592-7
+	{
+		width: 1213px;
+		min-height: 133px;
+		left: 24px;
+	}
+
+	#u121592-2
+	{
+		font-size: 28px;
+		line-height: 36px;
+	}
+
+	#u121592-5
+	{
+		font-size: 18px;
+		line-height: 23px;
+	}
+
+	body
+	{
+		min-width: 1260px;
+	}
+
+

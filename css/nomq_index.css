@@ -1,0 +1,187 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 1260px;
+		min-height: 1200px;
+	}
+
+	#page_position_content
+	{
+		padding-bottom: 840px;
+		width: 0.01px;/* should not cover content below */
+	}
+
+	#pu118289
+	{
+		width: 0.01px;
+		margin-left: -53px;
+	}
+
+	#u118290-6
+	{
+		width: 592px;
+		left: 77px;
+	}
+
+	#u118290-6:hover
+	{
+		width: 592px;
+	}
+
+	#u118290-6:active
+	{
+		width: 592px;
+	}
+
+	#pu113488-4
+	{
+		width: 0.01px;
+		margin-left: 24px;
+		margin-top: 28px;
+	}
+
+	#u113488-4
+	{
+		width: 281px;
+		margin-right: -10000px;
+	}
+
+	#u113488-4:hover
+	{
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 281px;
+	}
+
+	#u113283-4
+	{
+		width: 281px;
+		margin-right: -10000px;
+		left: 309px;
+	}
+
+	#u113488-4:active,#u113283-4:hover
+	{
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 281px;
+	}
+
+	#u113284-4
+	{
+		width: 281px;
+		margin-right: -10000px;
+	}
+
+	#u113283-4:active,#u113284-4:hover
+	{
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 281px;
+	}
+
+	#u113489-4
+	{
+		width: 281px;
+		margin-right: -10000px;
+		left: 309px;
+	}
+
+	#u113284-4:active,#u113489-4:hover
+	{
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 281px;
+	}
+
+	#u113281-4
+	{
+		width: 281px;
+		margin-right: -10000px;
+	}
+
+	#u113489-4:active,#u113281-4:hover
+	{
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 281px;
+	}
+
+	#u113279-4
+	{
+		width: 281px;
+		margin-right: -10000px;
+		left: 309px;
+	}
+
+	#u113281-4:active,#u113279-4:hover
+	{
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 281px;
+	}
+
+	#pu113284-4,#pu113281-4,#pu113282-4
+	{
+		width: 0.01px;
+		margin-left: 24px;
+		margin-top: 24px;
+	}
+
+	#u113282-4
+	{
+		width: 281px;
+		margin-right: -10000px;
+	}
+
+	#u113279-4:active,#u113282-4:hover
+	{
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 281px;
+	}
+
+	#u113280-4
+	{
+		width: 281px;
+		margin-right: -10000px;
+		left: 309px;
+	}
+
+	#u113282-4:active,#u113280-4:hover
+	{
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 281px;
+	}
+
+	#u113280-4:active
+	{
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 0px;
+		width: 281px;
+	}
+
+	body
+	{
+		min-width: 1260px;
+	}
+

@@ -1,0 +1,134 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="stanchoi.github.io" resolutions="1x" timestamp="1461779411232">
+  <folder name="css">
+    <file name="site_global.css" crc="4129678886"/>
+    <file name="master_a-master.css" crc="404725349" ref="button-group:index:block-quote:thought-leadership:typography:circle-promo:product-page:tabs:responsive-grid"/>
+    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="button-group:index:block-quote:thought-leadership:typography:circle-promo:product-page:tabs:responsive-grid"/>
+    <file name="button-group.css" crc="510179894" ref="button-group"/>
+    <file name="nomq_button-group.css" crc="4255972945" ref="button-group"/>
+    <file name="index.css" crc="3860997378" ref="index"/>
+    <file name="nomq_index.css" crc="3939714965" ref="index"/>
+    <file name="block-quote.css" crc="3873068165" ref="block-quote"/>
+    <file name="nomq_block-quote.css" crc="243166159" ref="block-quote"/>
+    <file name="thought-leadership.css" crc="4287411878" ref="thought-leadership"/>
+    <file name="nomq_thought-leadership.css" crc="358489729" ref="thought-leadership"/>
+    <file name="typography.css" crc="334884877" ref="typography"/>
+    <file name="nomq_typography.css" crc="3779447108" ref="typography"/>
+    <file name="circle-promo.css" crc="3901346406" ref="circle-promo"/>
+    <file name="nomq_circle-promo.css" crc="199623740" ref="circle-promo"/>
+    <file name="product-page.css" crc="4046123884" ref="product-page"/>
+    <file name="nomq_product-page.css" crc="4026095925" ref="product-page"/>
+    <file name="tabs.css" crc="4167938472" ref="tabs"/>
+    <file name="nomq_tabs.css" crc="4086337686" ref="tabs"/>
+    <file name="responsive-grid.css" crc="3962906146" ref="responsive-grid"/>
+    <file name="nomq_responsive-grid.css" crc="386735569" ref="responsive-grid"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="block-quote:responsive-grid:tabs:typography:thought-leadership:index:button-group:product-page:circle-promo"/>
+    <file name="museutils.js" crc="3790713428" ref="block-quote:responsive-grid:tabs:typography:thought-leadership:index:button-group:product-page:circle-promo"/>
+    <file name="whatinput.js" crc="84559013" ref="block-quote:responsive-grid:tabs:typography:thought-leadership:index:button-group:product-page:circle-promo"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="block-quote:responsive-grid:tabs:typography:thought-leadership:index:button-group:product-page:circle-promo"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="block-quote:responsive-grid:tabs:typography:thought-leadership:index:button-group:product-page:circle-promo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="thought-leadership:product-page"/>
+    <file name="pie.js" crc="3827607177" ref="product-page"/>
+  </folder>
+  <folder name="images">
+    <file name="tl_img-u37825-fr.jpg" crc="4273552887" ref="thought-leadership"/>
+    <file name="u38034-grad.png" crc="3899258252" ref="thought-leadership"/>
+    <file name="big_img-u43156-fr.jpg" crc="4213664584" ref="thought-leadership"/>
+    <file name="largeimageadapt1024-u43335-fr.jpg" crc="3808659774" ref="thought-leadership"/>
+    <file name="tl_img-u37825-fr2.jpg" crc="4101115469" ref="thought-leadership"/>
+    <file name="u38034-grad2.png" crc="462169939" ref="thought-leadership"/>
+    <file name="big_img-u43156-fr2.jpg" crc="241010776" ref="thought-leadership"/>
+    <file name="largeimageadapt1024-u43335-fr2.jpg" crc="4002273703" ref="thought-leadership"/>
+    <file name="tl_img-u37825-fr3.jpg" crc="3918564523" ref="thought-leadership"/>
+    <file name="u38034-grad3.png" crc="304180987" ref="thought-leadership"/>
+    <file name="big_img-u43156-fr3.jpg" crc="109518495" ref="thought-leadership"/>
+    <file name="largeimageadapt1024-u43335-fr3.jpg" crc="4057567546" ref="thought-leadership"/>
+    <file name="tl_img-u37825-fr4.jpg" crc="4256627237" ref="thought-leadership"/>
+    <file name="u38034-grad4.png" crc="529432039" ref="thought-leadership"/>
+    <file name="big_img-u43156-fr4.jpg" crc="362156361" ref="thought-leadership"/>
+    <file name="largeimageadapt1024-u43335-fr4.jpg" crc="459248922" ref="thought-leadership:product-page"/>
+    <file name="u43336-grad.png" crc="189472794" ref="thought-leadership"/>
+    <file name="tl_img.jpg" crc="328563028" ref="thought-leadership:product-page"/>
+    <file name="u38034-grad5.png" crc="4170268168" ref="thought-leadership"/>
+    <file name="big_img-u43156-fr5.jpg" crc="171947433" ref="thought-leadership"/>
+    <file name="largeimageadapt1024.jpg" crc="4294590626" ref="thought-leadership:product-page"/>
+    <file name="u38034-grad6.png" crc="338316002" ref="thought-leadership"/>
+    <file name="big_img-u43156-fr6.jpg" crc="211088412" ref="thought-leadership"/>
+    <file name="tl_img-u37825-fr5.jpg" crc="412423900" ref="thought-leadership:product-page"/>
+    <file name="u38034-grad7.png" crc="3816466769" ref="thought-leadership"/>
+    <file name="big_img-u43156-fr7.jpg" crc="4027992242" ref="thought-leadership"/>
+    <file name="largeimageadapt1024-u43335-fr5.jpg" crc="4086305254" ref="thought-leadership"/>
+    <file name="tl_img-u37825-fr6.jpg" crc="124919948" ref="thought-leadership:product-page"/>
+    <file name="u38034-grad8.png" crc="138367375" ref="thought-leadership"/>
+    <file name="big_img-u43156-fr8.jpg" crc="4102595344" ref="thought-leadership"/>
+    <file name="ds4308.jpg" crc="4246498519" seo="true" ref="product-page"/>
+    <file name="thumb_layer 17.jpg" crc="250224361" seo="true" ref="product-page"/>
+    <file name="thumb_layer 15.jpg" crc="3945072509" seo="true" ref="product-page"/>
+    <file name="thumb_layer 26.jpg" crc="3966930135" seo="true" ref="product-page"/>
+    <file name="pasted image 21x18.png" crc="460714008" seo="true" ref="product-page"/>
+    <file name="big_img.jpg" crc="385129057" ref="product-page"/>
+    <file name="layer 36.jpg" crc="3932968971" seo="true" ref="product-page"/>
+    <file name="ic_expand_more_24px.svg" crc="3812749834" ref="product-page"/>
+    <file name="ic_expand_more_24px_poster_.png" crc="4223881913" ref="product-page"/>
+    <file name="tl_img-u94788-fr.jpg" crc="82987306" ref="product-page"/>
+    <file name="u94787-grad.png" crc="39310136" ref="product-page"/>
+    <file name="big_img-u94792-fr.jpg" crc="7874783" ref="product-page"/>
+    <file name="largeimageadapt1024-u94799-fr.jpg" crc="35761077" ref="product-page"/>
+    <file name="layer 3.jpg" crc="315651750" seo="true" ref="product-page"/>
+    <file name="largeimageadaptfull-1.jpg" crc="4230991655" seo="true" ref="product-page"/>
+    <file name="layer 43.png" crc="275112668" ref="product-page"/>
+    <file name="tl_img-u94788-fr2.jpg" crc="4036904380" ref="product-page"/>
+    <file name="u94787-grad2.png" crc="228796192" ref="product-page"/>
+    <file name="big_img-u94792-fr2.jpg" crc="4147637894" ref="product-page"/>
+    <file name="largeimageadapt1024-u94799-fr2.jpg" crc="281908855" ref="product-page"/>
+    <file name="layer 36289x289.jpg" crc="3924526585" seo="true" ref="product-page"/>
+    <file name="tl_img-u94788-fr3.jpg" crc="456892172" ref="product-page"/>
+    <file name="u94787-grad3.png" crc="4042135209" ref="product-page"/>
+    <file name="big_img-u94792-fr3.jpg" crc="4103466389" ref="product-page"/>
+    <file name="largeimageadapt1024-u94799-fr3.jpg" crc="3823158962" ref="product-page"/>
+    <file name="layer 43-u108053-fr.png" crc="472454077" ref="product-page"/>
+    <file name="big_img840x302.jpg" crc="97242065" seo="true" ref="product-page"/>
+    <file name="layer 36253x253.jpg" crc="4140203372" seo="true" ref="product-page"/>
+    <file name="tl_img-u94788-fr4.jpg" crc="4222285770" ref="product-page"/>
+    <file name="u94787-grad4.png" crc="3852353313" ref="product-page"/>
+    <file name="big_img-u94792-fr4.jpg" crc="413137802" ref="product-page"/>
+    <file name="largeimageadapt1024-u94799-fr4.jpg" crc="3818064011" ref="product-page"/>
+    <file name="layer 43-u108053-fr2.png" crc="4184283655" ref="product-page"/>
+    <file name="ds4308-u99088.png" crc="4212418364" ref="product-page"/>
+    <file name="big_img722x260.jpg" crc="3959750632" seo="true" ref="product-page"/>
+    <file name="u94787-grad5.png" crc="3766835366" ref="product-page"/>
+    <file name="u94798-grad.png" crc="32466946" ref="product-page"/>
+    <file name="layer 43-u108053-fr3.png" crc="3897947212" ref="product-page"/>
+    <file name="big_img602x216.jpg" crc="211088412" seo="true" ref="product-page"/>
+    <file name="u94787-grad6.png" crc="186128225" ref="product-page"/>
+    <file name="big_img-u94792-fr5.jpg" crc="221270192" ref="product-page"/>
+    <file name="u94793-grad.png" crc="4273118366" ref="product-page"/>
+    <file name="layer 43-u108053-fr4.png" crc="4191463334" ref="product-page"/>
+    <file name="big_img482x173.jpg" crc="436122286" seo="true" ref="product-page"/>
+    <file name="u94787-grad7.png" crc="130407669" ref="product-page"/>
+    <file name="big_img-u94792-fr6.jpg" crc="4088227389" ref="product-page"/>
+    <file name="largeimageadapt1024-u94799-fr5.jpg" crc="98576083" ref="product-page"/>
+    <file name="layer 3216x216.jpg" crc="368240941" seo="true" ref="product-page"/>
+    <file name="largeimageadaptfull-1216x216.jpg" crc="3932700052" seo="true" ref="product-page"/>
+    <file name="layer 43-u108053-fr5.png" crc="3762577275" ref="product-page"/>
+    <file name="big_img361x130.jpg" crc="3874137861" seo="true" ref="product-page"/>
+    <file name="u94787-grad8.png" crc="4083156999" ref="product-page"/>
+    <file name="big_img-u94792-fr7.jpg" crc="4105942019" ref="product-page"/>
+    <file name="layer 3162x162.jpg" crc="4122916765" seo="true" ref="product-page"/>
+    <file name="largeimageadaptfull-1162x162.jpg" crc="148486467" seo="true" ref="product-page"/>
+    <file name="layer 43-u108053-fr6.png" crc="77967889" ref="product-page"/>
+    <file name="blank.gif" crc="4208392903" ref="product-page:circle-promo"/>
+    <file name="circle.svg" crc="498247993" ref="circle-promo"/>
+    <file name="circle_poster_.png" crc="3923133621" ref="circle-promo"/>
+  </folder>
+  <file name="block-quote.html" crc="4022048005" seo="true" mt="1461777839195" redirect="true"/>
+  <file name="responsive-grid.html" crc="268515071" seo="true" mt="1461777820575" redirect="true"/>
+  <file name="tabs.html" crc="4204313801" seo="true" mt="1461777820575" redirect="true"/>
+  <file name="typography.html" crc="3817699117" seo="true" mt="1461777820575" redirect="true"/>
+  <file name="thought-leadership.html" crc="4141602978" seo="true" mt="1461778632337" redirect="true"/>
+  <file name="index.html" crc="535585454" seo="true" mt="1461777942264" redirect="true"/>
+  <file name="button-group.html" crc="4205073385" seo="true" mt="1461777863441" redirect="true"/>
+  <file name="product-page.html" crc="3786019171" seo="true" mt="1461778632778" redirect="true"/>
+  <file name="circle-promo.html" crc="131895625" seo="true" mt="1461777888581" redirect="true"/>
+</manifest>

@@ -1,0 +1,196 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 1260px;
+		min-height: 356px;
+		padding-bottom: 444px;
+	}
+
+	#pu118289
+	{
+		width: 0.01px;
+		padding-bottom: 72px;
+		margin-right: -10000px;
+		margin-left: -53px;
+	}
+
+	#u118290-6
+	{
+		width: 592px;
+		left: 77px;
+	}
+
+	#u118290-6:hover
+	{
+		width: 592px;
+	}
+
+	#u118290-6:active
+	{
+		width: 592px;
+	}
+
+	#pu46120
+	{
+		width: 0.01px;
+		margin-right: -10000px;
+		margin-top: 100px;
+		margin-left: 24px;
+	}
+
+	#u37825
+	{
+		width: 389px;
+		height: 256px;
+		background-image: url("../images/tl_img-u37825-fr.jpg");
+	}
+
+	#u38034
+	{
+		width: 389px;
+		height: 256px;
+		background-image: url("../images/u38034-grad.png");
+		background: -webkit-gradient(linear, center top, center bottom, from(rgba(1,117,170,0.84)),color-stop(60%, rgba(1,117,170,0.5)));
+		background: -webkit-linear-gradient(top,rgba(1,117,170,0.84) ,rgba(1,117,170,0.5) 60%);
+		background: linear-gradient(to bottom,rgba(1,117,170,0.84) ,rgba(1,117,170,0.5) 60%);
+	}
+
+	#u37381-7
+	{
+		width: 389px;
+		min-height: 130px;
+	}
+
+	#u37381-7:hover
+	{
+		margin-left: 0px;
+		min-height: 130px;
+		width: 389px;
+	}
+
+	#u87912
+	{
+		width: 181px;
+		margin-top: 130px;
+		left: 1px;
+	}
+
+	#u46130
+	{
+		width: 389px;
+		margin-right: -10000px;
+		margin-top: 100px;
+		left: 436px;
+	}
+
+	#u43156
+	{
+		width: 389px;
+		height: 256px;
+		background-image: url("../images/big_img-u43156-fr.jpg");
+	}
+
+	#u43155
+	{
+		width: 389px;
+		height: 256px;
+		background-image: url("../images/u38034-grad.png");
+		background: -webkit-gradient(linear, center top, center bottom, from(rgba(1,117,170,0.84)),color-stop(60%, rgba(1,117,170,0.5)));
+		background: -webkit-linear-gradient(top,rgba(1,117,170,0.84) ,rgba(1,117,170,0.5) 60%);
+		background: linear-gradient(to bottom,rgba(1,117,170,0.84) ,rgba(1,117,170,0.5) 60%);
+	}
+
+	#u43157-7
+	{
+		width: 389px;
+		min-height: 131px;
+	}
+
+	#u43157-7:hover
+	{
+		margin-left: 0px;
+		min-height: 131px;
+		width: 389px;
+	}
+
+	#u43157-3
+	{
+		font-size: 16px;
+		line-height: 18px;
+	}
+
+	#u46140
+	{
+		width: 389px;
+		margin-right: -10000px;
+		margin-top: 100px;
+		left: 848px;
+	}
+
+	#u46120,#u38118,#u43154,#u43334
+	{
+		width: 389px;
+	}
+
+	#u43335
+	{
+		width: 389px;
+		height: 256px;
+		background-image: url("../images/largeimageadapt1024-u43335-fr.jpg");
+	}
+
+	#u43336
+	{
+		width: 389px;
+		height: 256px;
+		background-image: url("../images/u38034-grad.png");
+		background: -webkit-gradient(linear, center top, center bottom, from(rgba(1,117,170,0.84)),color-stop(60%, rgba(1,117,170,0.5)));
+		background: -webkit-linear-gradient(top,rgba(1,117,170,0.84) ,rgba(1,117,170,0.5) 60%);
+		background: linear-gradient(to bottom,rgba(1,117,170,0.84) ,rgba(1,117,170,0.5) 60%);
+	}
+
+	#u43337-7
+	{
+		width: 389px;
+		min-height: 121px;
+	}
+
+	#u43337-7:hover
+	{
+		margin-left: 0px;
+		min-height: 121px;
+		width: 389px;
+	}
+
+	#u37381-2,#u43157-2,#u43337-2
+	{
+		font-size: 14px;
+		line-height: 15px;
+	}
+
+	#u37381-3,#u43337-3
+	{
+		line-height: 18px;
+	}
+
+	#u37381-5,#u43157-5,#u43337-5
+	{
+		font-size: 20px;
+		line-height: 22px;
+	}
+
+	body
+	{
+		min-width: 1260px;
+	}
+
+

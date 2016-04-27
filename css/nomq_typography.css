@@ -1,0 +1,115 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 1260px;
+		min-height: 1200px;
+	}
+
+	#page_position_content
+	{
+		padding-bottom: 567px;
+		width: 0.01px;/* should not cover content below */
+	}
+
+	#pu118289
+	{
+		width: 0.01px;
+		margin-left: -53px;
+	}
+
+	#u118290-6
+	{
+		width: 592px;
+		left: 77px;
+	}
+
+	#u118290-6:hover
+	{
+		width: 592px;
+	}
+
+	#u118290-6:active
+	{
+		width: 592px;
+	}
+
+	#u110397-8
+	{
+		width: 1197px;
+		margin-left: 24px;
+		margin-top: 28px;
+	}
+
+	#u98826-4
+	{
+		width: 1197px;
+		font-size: 38px;
+		line-height: 46px;
+		margin-left: 24px;
+		margin-top: 6px;
+	}
+
+	#u98827-4
+	{
+		width: 1197px;
+		line-height: 38px;
+		color: #373D47;
+		font-size: 32px;
+		margin-left: 24px;
+		margin-top: 24px;
+	}
+
+	#u98828-4
+	{
+		width: 1197px;
+		line-height: 34px;
+		margin-left: 24px;
+		margin-top: 24px;
+	}
+
+	#u98829-4
+	{
+		width: 1197px;
+		min-height: 32px;
+		line-height: 31px;
+		font-size: 26px;
+		margin-left: 24px;
+		margin-top: 24px;
+	}
+
+	#u98830-4
+	{
+		width: 1197px;
+		font-size: 22px;
+		line-height: 26px;
+		margin-left: 24px;
+	}
+
+	#u98831-4
+	{
+		width: 1197px;
+		min-height: 23px;
+		margin-left: 24px;
+		margin-top: 24px;
+	}
+
+	#u98833-4,#u98832-4,#u98825-4
+	{
+		width: 1197px;
+		margin-left: 24px;
+	}
+
+	body
+	{
+		min-width: 1260px;
+	}
+
